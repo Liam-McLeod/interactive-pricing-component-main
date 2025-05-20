@@ -17,7 +17,7 @@ This is a solution to the [Interactive pricing component challenge on Frontend M
 
 ### Links
 
--  [Solution URL](https://www.frontendmentor.io/solutions/github-user-search-app-solution-GRz9EneLEn)
+-  [Solution URL](https://www.frontendmentor.io/solutions/interactive-pricing-component-dJFvQADvYB)
 -  [Live Site URL](https://liam-mcleod.github.io/github-user-search-app/)
 
 ## Author
